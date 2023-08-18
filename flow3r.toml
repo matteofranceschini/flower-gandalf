@@ -1,0 +1,13 @@
+[app]
+name = "Gandalf Sax"
+menu = "Badge"
+
+[entry]
+class = "Gandalf"
+
+[metadata]
+author = "teof"
+license = ""
+url = "https://git.flow3r.garden/teof/gandalf"
+description = "Happy Gandalf Vibes"
+version = 1
